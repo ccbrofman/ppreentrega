@@ -1,0 +1,67 @@
+[{
+    "title" : "tabla rigida",
+    "description" : "Tabla rígida larga",
+    "code": "extricacion1",
+    "price" : 18000,
+    "status": "false",
+    "stock": 10,
+    "category": "Extricacion"
+    },
+    
+    {
+    "title" : "collar cervical plano",
+    "description" : "set de collar cervical plano",
+    "code": "extricacion2",
+    "price" : 8000,
+    "status": "false",
+    "stock": 20,
+    "category": "Extricacion"
+    },
+    {
+    "title" : "collar cervical",
+    "description" : "collar cervical con orificio traqueal",
+    "code": "extricacion3",
+    "price" : 10000,
+    "status": "false",
+    "stock": 10,
+    "category": "Extricacion"
+    },
+    
+    {
+    "title" : "inmovilizador lateral",
+    "description" : "inmovilizador lateral",
+    "code": "extricacion4",
+    "price" : 12000,
+    "status": "false",
+    "stock": 15,
+    "category": "Extricacion"
+    },
+    {
+    "title" : "torniquete",
+    "description" : "Torniquete salva vidas",
+    "code": "Sangrado1",
+    "price" : 15000,
+    "status": "false",
+    "stock": 50,
+    "category": "bleedingControl"
+    },
+    
+    
+    {
+    "title" : "combat gauze",
+    "description" : "gasa para control del sangrado",
+    "code": "Sangrado2",
+    "price" : 15000,
+    "status": "false",
+    "stock": 40,
+    "category": "bleedingControl"
+    },
+    {
+    "title" : "parche y venda",
+    "description" : "Set de parches y vendas para control del sangrado",
+    "code": "Sangrado3",
+    "price" : 45000,
+    "status": "false",
+    "stock": 50,
+    "category": "bleedingControl"
+    }]
